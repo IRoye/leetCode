@@ -1,5 +1,8 @@
 package leetcode;
 
+/***
+ * leetCode 第四题
+ */
 public class MergeSort {
 
     /***
