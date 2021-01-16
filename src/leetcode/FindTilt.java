@@ -7,30 +7,49 @@ import java.util.Queue;
  * 563.二叉树的坡度
  */
 public class FindTilt {
-    public int findTilt(TreeNode root) {
+//    public int findTilt(TreeNode root) {
+//
+//    }
+//
+//    ;
+
+    public static int findTiltSum(TreeNode root) {
+        // 递归遍历
+        if (root != null) {
+            // 1. 已经到了叶子节点
+            if (root.left == null && root.right == null) {
+                return 0;
+            }
+            // 其他
+           //  当前节点的坡度 + 当前左子节点的坡度 + 当前右子节点的坡度
+            return Math.abs(nodeSum(root.left) - nodeSum(root.right)) + findTiltSum(root.left) + findTiltSum(root.right);
+        }
+        //  如果是null的话，返回0
         return 0;
     }
 
-    ;
+    /**
+     * 为计算节点的坡度提供基础
+     *
+     * @param root
+     * @return
+     */
+    public static int nodeSum(TreeNode root) {
+        if (root == null) {
+            return 0;
+        }
+        return root.val + nodeSum(root.left) + nodeSum(root.right);
+    }
 
     public static void main(String[] args) {
-        int a[] = {4, 2, 9, 3, 5, 7};
-        TreeNode node = createTreeNode(a, 0);
-//        System.out.println(node.left.val);
-//        System.out.println(node.right.val);
-        Queue<Integer> queue = new LinkedList<>();
-//
-        queue.add(5);
-        queue.add(2);
-        queue.offer(2);
+        Integer a[] = {4, 2, 9, 3, 5, null, 7};
 
-//       retrive but do not remove
-        Integer a1 = queue.peek();
-//         Integer a2 = queue.peek();
-        System.out.println(a1);
-//        System.out.println(a2);
-//       retrive and remove
+        TreeNode root = createTreeNodeByQueue(a);
 
+        System.out.println(root.left.left.val);
+        int sum = 0;
+//        int value = findTiltSum(root, sum);
+////        System.out.println(value);
     }
 
     /**
@@ -82,6 +101,7 @@ public class FindTilt {
                     node.right = new TreeNode(v);
                     queue.offer(node.right);
                 }
+                isLeft = true;
                 // 移除队列下的root元素, 这样根元素的左子节点重新来一遍如上的遍历。
                 queue.poll();
             }
