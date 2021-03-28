@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/file/FileCSV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/H2O.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/MatrixWithZero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/ZeroEvenOdd.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/IsPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/IsPalindrome.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,14 +24,59 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/IsPalindrome.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="546">
-              <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+            <state relative-caret-position="828">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
               <folding>
+                <element signature="e#1328#1329#0" expanded="true" />
                 <element signature="e#1380#1381#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/file/FileCSV.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/MatrixWithZero.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="455">
+              <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/ZeroEvenOdd.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#110#111#0" expanded="true" />
+                <element signature="e#136#137#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/H2O.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -55,9 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/Main.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/SumTwo.java" />
-        <option value="$PROJECT_DIR$/src/leetcode/ListNode1.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ListNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SumTwo2.java" />
         <option value="$PROJECT_DIR$/src/leetcode/ListMap.java" />
@@ -105,6 +150,10 @@
         <option value="$PROJECT_DIR$/src/sort/BubbleSort.java" />
         <option value="$PROJECT_DIR$/src/sort/MergeInterval.java" />
         <option value="$PROJECT_DIR$/src/leetcode/IsPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/file/FileCSV.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/MatrixWithZero.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/ZeroEvenOdd.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/H2O.java" />
       </list>
     </option>
   </component>
@@ -126,7 +175,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,25 +195,20 @@
             </path>
             <path>
               <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1613549164919" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1616927527628" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -185,13 +228,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.IsPalindrome">
-    <configuration name="BubbleSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="sort.BubbleSort" />
+  <component name="RunManager" selected="Application.ZeroEvenOdd">
+    <configuration name="FileCSV" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="file.FileCSV" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="sort.*" />
+          <option name="PATTERN" value="file.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -199,8 +242,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindTilt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.FindTilt" />
+    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.IsPalindrome" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -212,8 +255,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IsPalindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.IsPalindrome" />
+    <configuration name="MatrixWithZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MatrixWithZero" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -238,8 +281,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MetrixInverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.MetrixInverse" />
+    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.ZeroEvenOdd" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -253,11 +296,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ZeroEvenOdd" />
+        <item itemvalue="Application.MatrixWithZero" />
+        <item itemvalue="Application.FileCSV" />
         <item itemvalue="Application.IsPalindrome" />
         <item itemvalue="Application.MergeInterval" />
-        <item itemvalue="Application.BubbleSort" />
-        <item itemvalue="Application.FindTilt" />
-        <item itemvalue="Application.MetrixInverse" />
       </list>
     </recent_temporary>
   </component>
@@ -315,12 +358,15 @@
       <workItem from="1609039427776" duration="4077000" />
       <workItem from="1609576576377" duration="13099000" />
       <workItem from="1610797522335" duration="11060000" />
-      <workItem from="1613491167525" duration="2967000" />
+      <workItem from="1613491167525" duration="3408000" />
+      <workItem from="1613718560477" duration="706000" />
+      <workItem from="1616297230266" duration="5403000" />
+      <workItem from="1616912660941" duration="4254000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="226911000" />
+    <option name="totallyTimeSpent" value="237715000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -335,7 +381,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19062833" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1970181" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -344,16 +390,16 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.8349308" visible="true" weight="0.26545087" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.73928213" weight="0.31539187" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.83280087" visible="true" weight="0.1266464" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7385517" weight="0.31509626" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32847896" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.32928064" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.827476" weight="0.23404256" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16506922" side_tool="true" visible="true" weight="0.26545087" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.82641107" weight="0.32624114" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.16719915" side_tool="true" visible="true" weight="0.1266464" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49434572" weight="0.34512022" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -400,40 +446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/tree/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="39" column="41" selection-start-line="39" selection-start-column="41" selection-end-line="39" selection-end-column="41" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/sort/RelativeSortArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/LongestSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="162">
@@ -864,11 +876,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/IsPalindrome.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="52" column="42" selection-start-line="52" selection-start-column="42" selection-end-line="52" selection-end-column="42" />
+        <state relative-caret-position="828">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
           <folding>
+            <element signature="e#1328#1329#0" expanded="true" />
             <element signature="e#1380#1381#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/file/FileCSV.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="15" column="23" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/MatrixWithZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="455">
+          <caret line="55" column="63" selection-start-line="55" selection-start-column="63" selection-end-line="55" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ZeroEvenOdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="32" column="36" lean-forward="true" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#110#111#0" expanded="true" />
+            <element signature="e#136#137#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/H2O.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="29" column="29" selection-start-line="29" selection-start-column="29" selection-end-line="29" selection-end-column="29" />
         </state>
       </provider>
     </entry>
