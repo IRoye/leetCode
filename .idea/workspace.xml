@@ -9,6 +9,7 @@
       <change afterPath="$PROJECT_DIR$/src/leetcode/FequencySort.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/LastStoneWeightII.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode645FindErrorNums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode6ConvertZ.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/LongestCommonSubsequence.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/MaxIceCream.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveElements.java" afterDir="false" />
@@ -27,15 +28,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/generic/BitOperation.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="35" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -97,11 +89,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode645FindErrorNums.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+            <state relative-caret-position="486">
+              <caret line="54" column="50" lean-forward="true" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode6ConvertZ.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="587">
+              <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -153,7 +157,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/tree/TreeNode.java" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/leetcode/recursion/RangeSumBST.java" />
         <option value="$PROJECT_DIR$/src/leetcode/recursion/MinDiffInBST.java" />
@@ -204,6 +207,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/FequencySort.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MaxIceCream.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode645FindErrorNums.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Leetcode6ConvertZ.java" />
       </list>
     </option>
   </component>
@@ -254,7 +258,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625383465827" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625388239314" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -274,7 +278,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode645FindErrorNums">
+  <component name="RunManager" selected="Application.Leetcode6ConvertZ">
     <configuration name="FequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.FequencySort" />
       <module name="leetCode" />
@@ -288,8 +292,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LastStoneWeightII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.LastStoneWeightII" />
+    <configuration name="Leetcode645FindErrorNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode645FindErrorNums" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -301,8 +305,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode645FindErrorNums" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode645FindErrorNums" />
+    <configuration name="Leetcode6ConvertZ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode6ConvertZ" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -342,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode6ConvertZ" />
         <item itemvalue="Application.Leetcode645FindErrorNums" />
         <item itemvalue="Application.MaxIceCream" />
         <item itemvalue="Application.FequencySort" />
         <item itemvalue="Application.LongestCommonSubsequence" />
-        <item itemvalue="Application.LastStoneWeightII" />
       </list>
     </recent_temporary>
   </component>
@@ -410,12 +414,12 @@
       <workItem from="1616912660941" duration="5417000" />
       <workItem from="1622889979279" duration="3068000" />
       <workItem from="1623385945936" duration="1000" />
-      <workItem from="1623582901904" duration="36193000" />
+      <workItem from="1623582901904" duration="37771000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="278140000" />
+    <option name="totallyTimeSpent" value="279718000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -439,7 +443,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9297125" visible="true" weight="0.29989868" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9286475" visible="true" weight="0.1621074" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.73801917" weight="0.31509626" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -447,9 +451,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.32928064" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8253461" weight="0.24214792" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.07028754" side_tool="true" visible="true" weight="0.29989868" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.49201277" weight="0.34447822" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8248136" weight="0.2786221" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.071352504" side_tool="true" visible="true" weight="0.1621074" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914803" weight="0.18642351" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -495,16 +499,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/romanToInt/RomanToInt.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="638">
-          <caret line="49" column="5" selection-start-line="49" selection-start-column="5" selection-end-line="49" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/myAtoi/MyAtoi.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="638">
@@ -956,8 +950,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode645FindErrorNums.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="69" column="25" selection-start-line="69" selection-start-column="25" selection-end-line="69" selection-end-column="25" />
+        <state relative-caret-position="486">
+          <caret line="54" column="50" lean-forward="true" selection-start-line="54" selection-start-column="50" selection-end-line="54" selection-end-column="50" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode6ConvertZ.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="587">
+          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
