@@ -5,15 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/generic/BitOperation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/FequencySort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LastStoneWeightII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode21MergeTwoLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode645FindErrorNums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode6ConvertZ.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LongestCommonSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/MaxIceCream.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/RemoveElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode11MaxArea.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,25 +20,12 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode21MergeTwoLists.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode11MaxArea.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="677">
-              <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="331">
+              <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
             </state>
           </provider>
         </entry>
@@ -73,7 +52,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/recursion/RangeSumBST.java" />
         <option value="$PROJECT_DIR$/src/leetcode/recursion/MinDiffInBST.java" />
         <option value="$PROJECT_DIR$/src/leetcode/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/src/leetcode/sort/RelativeSortArray.java" />
@@ -124,6 +102,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode645FindErrorNums.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode6ConvertZ.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode21MergeTwoLists.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Leetcode11MaxArea.java" />
       </list>
     </option>
   </component>
@@ -134,8 +113,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -146,7 +125,6 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -169,12 +147,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625505999478" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1625916223460" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -194,9 +173,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode21MergeTwoLists">
-    <configuration name="FequencySort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.FequencySort" />
+  <component name="RunManager" selected="Application.Leetcode11MaxArea">
+    <configuration name="Leetcode11MaxArea" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode11MaxArea" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -262,11 +241,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode11MaxArea" />
         <item itemvalue="Application.Leetcode21MergeTwoLists" />
         <item itemvalue="Application.Leetcode6ConvertZ" />
         <item itemvalue="Application.Leetcode645FindErrorNums" />
         <item itemvalue="Application.MaxIceCream" />
-        <item itemvalue="Application.FequencySort" />
       </list>
     </recent_temporary>
   </component>
@@ -330,12 +309,13 @@
       <workItem from="1616912660941" duration="5417000" />
       <workItem from="1622889979279" duration="3068000" />
       <workItem from="1623385945936" duration="1000" />
-      <workItem from="1623582901904" duration="40744000" />
+      <workItem from="1623582901904" duration="41057000" />
+      <workItem from="1625905808535" duration="1991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="282691000" />
+    <option name="totallyTimeSpent" value="284995000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -350,7 +330,7 @@
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15069222" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.0" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -359,7 +339,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.92758256" visible="true" weight="0.21985815" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.92705005" visible="true" weight="0.21681865" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.73748666" weight="0.31509626" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -367,8 +347,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.32928064" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.82428116" weight="0.22087133" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.07241747" side_tool="true" visible="true" weight="0.21985815" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8232162" weight="0.26646402" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.072949946" side_tool="true" visible="true" weight="0.21681865" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914803" weight="0.18642351" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -415,23 +395,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/generic/Pair.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-          <folding>
-            <element signature="e#256#257#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#341#342#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#412#413#0" expanded="true" />
-            <element signature="e#451#452#0" expanded="true" />
-            <element signature="e#487#488#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/other/menu/Menu.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
@@ -879,8 +842,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode21MergeTwoLists.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="677">
-          <caret line="68" column="33" selection-start-line="68" selection-start-column="33" selection-end-line="68" selection-end-column="33" />
+        <state relative-caret-position="126">
+          <caret line="7" selection-start-line="7" selection-end-line="46" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode11MaxArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
         </state>
       </provider>
     </entry>
