@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode54SpiralMatrix.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode59SpiralMatrixII.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java" afterDir="false" />
@@ -23,64 +24,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode46Permute.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
-              <caret line="42" column="34" lean-forward="true" selection-start-line="42" selection-start-column="34" selection-end-line="42" selection-end-column="34" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode54SpiralMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="7" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="24" selection-end-column="7" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="624">
-              <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
-              <folding>
-                <element signature="e#247#248#0" expanded="true" />
-                <element signature="e#285#286#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
-              <folding>
-                <element signature="e#140#141#0" expanded="true" />
-                <element signature="e#174#175#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode59SpiralMatrixII.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="216">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="30" selection-end-column="28" />
             </state>
           </provider>
         </entry>
@@ -107,7 +55,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/other/menu/Menu.java" />
         <option value="$PROJECT_DIR$/src/other/menu/MenuVo.java" />
         <option value="$PROJECT_DIR$/src/leetcode/thread/foobar/PrintBar.java" />
         <option value="$PROJECT_DIR$/src/leetcode/thread/foobar/PrintFoo.java" />
@@ -158,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode54SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode59SpiralMatrixII.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java" />
       </list>
     </option>
   </component>
@@ -208,7 +156,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1628434739730" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629556357067" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -228,9 +176,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode61RotateList">
-    <configuration name="Leetcode43Multiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode43Multiply" />
+  <component name="RunManager" selected="Application.Leetcdoe62UniquePaths">
+    <configuration name="Leetcdoe62UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcdoe62UniquePaths" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -296,11 +244,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcdoe62UniquePaths" />
         <item itemvalue="Application.Leetcode61RotateList" />
         <item itemvalue="Application.Leetcode59SpiralMatrixII" />
         <item itemvalue="Application.Leetcode54SpiralMatrix" />
         <item itemvalue="Application.Leetcode46Permute" />
-        <item itemvalue="Application.Leetcode43Multiply" />
       </list>
     </recent_temporary>
   </component>
@@ -368,7 +316,7 @@
       <workItem from="1625905808535" duration="11495000" />
       <workItem from="1627195003655" duration="37791000" />
       <workItem from="1628170461211" duration="339000" />
-      <workItem from="1628306907232" duration="12935000" />
+      <workItem from="1628306907232" duration="17947000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
@@ -388,7 +336,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="345564000" />
+    <option name="totallyTimeSpent" value="350576000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -401,7 +349,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16719915" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -412,7 +359,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9254526" visible="true" weight="0.09118541" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9254526" weight="0.42553192" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7326943" weight="0.27152988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -420,7 +367,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.43870315" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8226837" weight="0.2887538" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.8226837" visible="true" weight="0.2887538" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26730564" side_tool="true" weight="0.3586626" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914803" weight="0.22289766" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -568,13 +515,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/MinIncrementForUnique.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="720">
-          <caret line="40" column="7" selection-start-line="40" selection-start-column="7" selection-end-line="40" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/MaxSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
@@ -987,12 +927,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="624">
-          <caret line="43" column="32" selection-start-line="43" selection-start-column="32" selection-end-line="43" selection-end-column="32" />
+        <state relative-caret-position="396">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding>
             <element signature="e#247#248#0" expanded="true" />
             <element signature="e#285#286#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="30" selection-end-column="28" />
         </state>
       </provider>
     </entry>
