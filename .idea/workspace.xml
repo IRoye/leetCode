@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode54SpiralMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode59SpiralMatrixII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode70ClimbStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode191HammingWeight.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,25 +20,15 @@
     <option name="HIDE_WARNINGS" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="28" lean-forward="true" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode70ClimbStairs.java">
+        <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode191HammingWeight.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" selection-start-line="30" selection-end-line="52" selection-end-column="5" />
+            <state relative-caret-position="306">
+              <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#605#606#0" expanded="true" />
-                <element signature="e#624#625#0" expanded="true" />
+                <element signature="e#909#910#0" expanded="true" />
+                <element signature="e#992#993#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -70,7 +56,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/leetcode/thread/foobar/PrintBar.java" />
         <option value="$PROJECT_DIR$/src/leetcode/thread/foobar/PrintFoo.java" />
         <option value="$PROJECT_DIR$/src/leetcode/thread/foobar/FooBar.java" />
         <option value="$PROJECT_DIR$/src/leetcode/numDecodings/NumDecodings.java" />
@@ -121,6 +106,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode70ClimbStairs.java" />
+        <option value="$PROJECT_DIR$/src/leetcode/Leetcode191HammingWeight.java" />
       </list>
     </option>
   </component>
@@ -142,6 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -164,14 +152,12 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629601265574" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1631433412609" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
@@ -191,7 +177,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Leetcode70ClimbStairs">
+  <component name="RunManager" selected="Application.Leetcode191HammingWeight">
     <configuration name="Leetcdoe62UniquePaths" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.Leetcdoe62UniquePaths" />
       <module name="leetCode" />
@@ -205,8 +191,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode54SpiralMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode54SpiralMatrix" />
+    <configuration name="Leetcode191HammingWeight" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode191HammingWeight" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -259,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode191HammingWeight" />
         <item itemvalue="Application.Leetcode70ClimbStairs" />
         <item itemvalue="Application.Leetcdoe62UniquePaths" />
         <item itemvalue="Application.Leetcode61RotateList" />
         <item itemvalue="Application.Leetcode59SpiralMatrixII" />
-        <item itemvalue="Application.Leetcode54SpiralMatrix" />
       </list>
     </recent_temporary>
   </component>
@@ -331,7 +317,8 @@
       <workItem from="1625905808535" duration="11495000" />
       <workItem from="1627195003655" duration="37791000" />
       <workItem from="1628170461211" duration="339000" />
-      <workItem from="1628306907232" duration="19818000" />
+      <workItem from="1628306907232" duration="21080000" />
+      <workItem from="1631430434939" duration="2139000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
@@ -351,7 +338,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="352447000" />
+    <option name="totallyTimeSpent" value="355848000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -364,8 +351,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16719915" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15814696" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -374,7 +362,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9254526" weight="0.24924012" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.9254526" visible="true" weight="0.24924012" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7326943" weight="0.27152988" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -382,7 +370,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" sideWeight="0.49893504" weight="0.43870315" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.8226837" visible="true" weight="0.2887538" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.8226837" weight="0.2563323" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.26730564" side_tool="true" weight="0.3586626" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4914803" weight="0.22289766" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -530,13 +518,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ReverseList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="48" column="5" selection-start-line="31" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/list/insert.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="295">
@@ -944,6 +925,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode70ClimbStairs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#605#606#0" expanded="true" />
+            <element signature="e#624#625#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcdoe62UniquePaths.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="540">
@@ -951,14 +944,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode70ClimbStairs.java">
+    <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode191HammingWeight.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" selection-start-line="30" selection-end-line="52" selection-end-column="5" />
+        <state relative-caret-position="306">
+          <caret line="17" column="53" selection-start-line="17" selection-start-column="53" selection-end-line="17" selection-end-column="53" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#605#606#0" expanded="true" />
-            <element signature="e#624#625#0" expanded="true" />
+            <element signature="e#909#910#0" expanded="true" />
+            <element signature="e#992#993#0" expanded="true" />
           </folding>
         </state>
       </provider>
