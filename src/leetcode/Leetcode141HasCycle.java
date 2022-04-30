@@ -10,14 +10,14 @@ package leetcode;
  * 来源：力扣（LeetCode）
  * 链接：https://leetcode-cn.com/problems/linked-list-cycle
  * 著作权归领扣网络所有。商业转载请联系官方授权，非商业转载请注明出处。
- *
- *  用这段代码来消除判断。自己代码的写法，太冗余。
- *
+ * <p>
+ * 用这段代码来消除判断。自己代码的写法，太冗余。
+ * <p>
  * if (slow == fast) return true;
- *
- * 			slow = slow->next;
- * 			fast = fast->next;
- * 			if (fast) fast=fast->next;
+ * <p>
+ * slow = slow->next;
+ * fast = fast->next;
+ * if (fast) fast=fast->next;
  * // *
  */
 public class Leetcode141HasCycle {
@@ -36,19 +36,13 @@ public class Leetcode141HasCycle {
         ListNode node1 = head;
         ListNode node2 = head;
 
-        if (node2.next != null && node2.next.next == null) {
-            if (node2.next.value == node1.value) {
-                return true;
-            } else {
-                return false;
-            }
-        }
-
 //      只有两个
 
         while (node2.next != null) {
             node1 = node1.next;
-            node2 = node2.next.next;
+            node2 = node2.next;
+
+            if (node2 != null) node2 = node2.next;
 
             if (node1.value == node2.value) {
                 return true;
