@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="feat(leetcode-26):数组去重">
-      <change afterPath="$PROJECT_DIR$/src/sort/LeetCode215FindKthLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -320,7 +319,7 @@
       <workItem from="1651162095515" duration="408000" />
       <workItem from="1651162570316" duration="153000" />
       <workItem from="1651306339003" duration="3429000" />
-      <workItem from="1651311487354" duration="4708000" />
+      <workItem from="1651311487354" duration="5011000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
