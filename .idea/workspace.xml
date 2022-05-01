@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="feat(leetcode-26):数组去重">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/LRUCache.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode142DetectCycle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode238ExceptSelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/MinStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/LeetCode215FindKthLargest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/Leetcode141HasCycle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/Leetcode141HasCycle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +30,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -317,7 +320,7 @@
       <workItem from="1651162095515" duration="408000" />
       <workItem from="1651162570316" duration="153000" />
       <workItem from="1651306339003" duration="3429000" />
-      <workItem from="1651311487354" duration="3085000" />
+      <workItem from="1651311487354" duration="4708000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
