@@ -1,18 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52bbb53a-7a02-4627-8160-8d9328b00a2d" name="Default Changelist" comment="feat(leetcode-230):二叉搜索树">
-      <change afterPath="$PROJECT_DIR$/src/list/LRUCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="411a46a4-dccd-4c7b-ae9d-b61d4a027151" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode19RemoveNthFromEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/LeetCode215FindKthLargest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/ListMap.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/ListMap.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/ListNode1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/ListNode1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/LongestSubstring.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/LongestSubstring.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/MergeSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/MergeSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/SumTwo.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/SumTwo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/SumTwo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/SumTwo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/leetCode/leetcode/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/leetCode/leetcode/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/list/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/LRUCache.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +45,7 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/src/leetcode/Permutations.java" />
         <option value="$PROJECT_DIR$/src/leetcode/SwapListNode.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MetrixInverse.java" />
         <option value="$PROJECT_DIR$/src/leetcode/IsValidBST.java" />
@@ -100,8 +95,7 @@
         <option value="$PROJECT_DIR$/src/leetcode/LeetCode155MinStack.java" />
         <option value="$PROJECT_DIR$/src/leetcode/MinStack.java" />
         <option value="$PROJECT_DIR$/src/leetcode/Leetcode238ExceptSelf.java" />
-        <option value="$PROJECT_DIR$/src/other/URIEncoder/URLEncode.java" />
-        <option value="$PROJECT_DIR$/src/list/DeleteListNode.java" />
+        <option value="$APPLICATION_CONFIG_DIR$/idea.vmoptions" />
       </list>
     </option>
   </component>
@@ -114,12 +108,11 @@
       <select />
     </treeState>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="y" value="37" />
-    <option name="width" value="1512" />
-    <option name="height" value="945" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
   </component>
-  <component name="ProjectId" id="27FFW9TcU47fvZknf2Mq5Oay1EF" />
+  <component name="ProjectId" id="28Qv4BFIJTDf42W4FqWitZUfNOc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -128,8 +121,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -146,7 +139,7 @@
               <item name="leetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="list" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -155,31 +148,29 @@
     </panes>
   </component>
   <component name="ProjectViewState">
-    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
-    <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1647677933287" />
-    <property name="create.test.in.the.same.root" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1641651573559" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.LRUCache">
-    <configuration name="BitTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.BitTest" />
+  <component name="RunManager" selected="Application.Leetcode19RemoveNthFromEnd">
+    <configuration name="Leetcode122MaxProfit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode122MaxProfit" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.*" />
+          <option name="PATTERN" value="leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,21 +178,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="list.LRUCache" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="list.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode234IsPowerOfTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode234IsPowerOfTwo" />
+    <configuration name="Leetcode19RemoveNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode19RemoveNthFromEnd" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -226,12 +204,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="URLEncode" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="other.URIEncoder.URLEncode" />
+    <configuration name="MinStack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.MinStack" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="other.URIEncoder.*" />
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sort.QuickSort" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -241,11 +232,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LRUCache" />
-        <item itemvalue="Application.Leetcode234IsPowerOfTwo" />
-        <item itemvalue="Application.BitTest" />
-        <item itemvalue="Application.URLEncode" />
+        <item itemvalue="Application.Leetcode19RemoveNthFromEnd" />
+        <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Leetcode238ExceptSelf" />
+        <item itemvalue="Application.MinStack" />
+        <item itemvalue="Application.Leetcode122MaxProfit" />
       </list>
     </recent_temporary>
   </component>
@@ -325,18 +316,14 @@
       <workItem from="1639885958953" duration="111000" />
       <workItem from="1641649049315" duration="2160000" />
       <workItem from="1641810135904" duration="853000" />
-      <workItem from="1647506128557" duration="901000" />
-      <workItem from="1647676316397" duration="1819000" />
-      <workItem from="1647997911249" duration="103000" />
-      <workItem from="1648907971424" duration="18000" />
-      <workItem from="1648908032857" duration="33000" />
-      <workItem from="1649259655971" duration="9429000" />
-      <workItem from="1649821845273" duration="25000" />
-      <workItem from="1650712596657" duration="4645000" />
-      <workItem from="1650817303604" duration="2722000" />
-      <workItem from="1650902892753" duration="3745000" />
-      <workItem from="1653728754007" duration="150000" />
-      <workItem from="1653729105866" duration="38118000" />
+      <workItem from="1647961294552" duration="273000" />
+      <workItem from="1649259222431" duration="13000" />
+      <workItem from="1651161448074" duration="94000" />
+      <workItem from="1651161604410" duration="387000" />
+      <workItem from="1651162095515" duration="408000" />
+      <workItem from="1651162570316" duration="153000" />
+      <workItem from="1651306339003" duration="3429000" />
+      <workItem from="1651311487354" duration="5011000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
@@ -352,18 +339,11 @@
       <option name="project" value="LOCAL" />
       <updated>1627218244190</updated>
     </task>
-    <task id="LOCAL-00003" summary="feat(leetcode-230):二叉搜索树">
-      <created>1650935191476</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1650935191478</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="387835000" />
+    <option name="totallyTimeSpent" value="385298000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -375,9 +355,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="37" width="1512" height="945" extended-state="6" />
+    <frame x="0" y="25" width="1920" height="986" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1952381" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1400426" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -386,7 +366,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9254526" weight="0.394095" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.9254526" weight="0.22391084" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.7326943" weight="0.3870314" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -470,8 +450,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(leetcode-15):16. 最接近的三数之和" />
     <MESSAGE value="feat(leetcode-26):数组去重" />
-    <MESSAGE value="feat(leetcode-230):二叉搜索树" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(leetcode-230):二叉搜索树" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leetcode-26):数组去重" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,25 +500,31 @@
           <line>48</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/list/LRUCache.java</url>
-          <line>43</line>
-          <option name="timeStamp" value="53" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/list/LRUCache.java</url>
-          <line>93</line>
-          <option name="timeStamp" value="54" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <pin-to-top-manager>
-      <pinned-members>
-        <PinnedItemInfo parentTag="list.LRUCache" memberName="map" />
-      </pinned-members>
-    </pin-to-top-manager>
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2628">
+          <caret line="169" column="13" selection-start-line="169" selection-start-column="13" selection-end-line="169" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2970">
+          <caret line="198" column="13" selection-start-line="198" selection-start-column="13" selection-end-line="198" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/TreeNode.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
@@ -808,6 +793,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="20" column="49" lean-forward="true" selection-start-line="20" selection-start-column="49" selection-end-line="20" selection-end-column="49" />
+          <folding>
+            <element signature="e#140#141#0" expanded="true" />
+            <element signature="e#174#175#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode61RotateList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="396">
@@ -937,50 +933,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/leetcode/Leetcode238ExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="757">
+        <state relative-caret-position="1152">
           <caret line="64" column="20" selection-start-line="64" selection-start-column="20" selection-end-line="64" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/URIEncoder/URLEncode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/menu/MenuVo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="612">
-          <caret line="50" column="7" selection-start-line="50" selection-start-column="7" selection-end-line="50" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/other/menu/Menu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/list/DeleteListNode.java">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/idea.vmoptions">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="35" selection-start-line="16" selection-start-column="8" selection-end-line="17" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/leetcode/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="e#140#141#0" expanded="true" />
-            <element signature="e#174#175#0" expanded="true" />
-          </folding>
+          <caret line="17" column="59" lean-forward="true" selection-start-line="17" selection-start-column="59" selection-end-line="17" selection-end-column="59" />
         </state>
       </provider>
     </entry>

@@ -35,7 +35,6 @@ public class LRUCache {
             return -1;
         }
 //      每次get操作，是要将当前的值提前的；
-        DoubleLinkedNode node = map.get(key);
         putFirstPosition(key);
         return map.get(key).value;
     }
