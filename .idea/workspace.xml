@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="411a46a4-dccd-4c7b-ae9d-b61d4a027151" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode19RemoveNthFromEnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/LeetCode215FindKthLargest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/list/LRUCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/list/LRUCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
