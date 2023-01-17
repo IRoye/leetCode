@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="411a46a4-dccd-4c7b-ae9d-b61d4a027151" name="Changes" comment="feat(leetcode-26):数组去重">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode1753MaximumScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/Leetcode2293MinMaxGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/LeetcodeTwoOutOfThree.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -161,7 +162,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Leetcode1753MaximumScore">
+  <component name="RunManager" selected="Application.Leetcode2293MinMaxGame">
     <configuration name="LeetCode27RemoveElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.LeetCode27RemoveElement" />
       <module name="leetCode" />
@@ -201,8 +202,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode19RemoveNthFromEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode19RemoveNthFromEnd" />
+    <configuration name="Leetcode20IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode20IsValid" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -214,8 +215,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode20IsValid" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode20IsValid" />
+    <configuration name="Leetcode2293MinMaxGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode2293MinMaxGame" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
@@ -265,11 +266,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Leetcode2293MinMaxGame" />
         <item itemvalue="Application.Leetcode1753MaximumScore" />
         <item itemvalue="Application.LeetCode350Intersect" />
         <item itemvalue="Application.LeetCode27RemoveElement" />
         <item itemvalue="Application.Leetcode20IsValid" />
-        <item itemvalue="Application.Leetcode19RemoveNthFromEnd" />
       </list>
     </recent_temporary>
   </component>
@@ -358,7 +359,9 @@
       <workItem from="1651306339003" duration="3429000" />
       <workItem from="1651311487354" duration="5011000" />
       <workItem from="1664295423704" duration="12953000" />
-      <workItem from="1671874771362" duration="4678000" />
+      <workItem from="1671874771362" duration="6677000" />
+      <workItem from="1672329533372" duration="1888000" />
+      <workItem from="1673683634515" duration="1869000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
@@ -462,7 +465,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -539,11 +554,6 @@
           <url>file://$PROJECT_DIR$/src/leetcode/LeetCode27RemoveElement.java</url>
           <line>30</line>
           <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/Leetcode1753MaximumScore.java</url>
-          <line>34</line>
-          <option name="timeStamp" value="48" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
