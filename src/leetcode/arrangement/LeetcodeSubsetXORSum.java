@@ -12,7 +12,6 @@ public class LeetcodeSubsetXORSum {
         for (int i = 0; i < nums.length; i++) {
 //          拆分子问题；
             List <List<Integer>> result = subset(nums, 0, i+ 1);
-
             for (List<Integer> element : result) {
 //               任何值和0异或，值都为本身，初始化为0
                 int elementXOR = 0;
