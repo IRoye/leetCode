@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="411a46a4-dccd-4c7b-ae9d-b61d4a027151" name="Changes" comment="feat(leetcode-26):数组去重">
-      <change afterPath="$PROJECT_DIR$/src/dynamic_programming/Leetcode22GenerateParenthesis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/BusyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/SearchInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/list/RotateMatrix.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/Leetcode22GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/Leetcode22GenerateParenthesis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -171,7 +174,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Leetcode22GenerateParenthesis">
+  <component name="RunManager" selected="Application.SearchInsert">
     <configuration name="LeetCode198Rub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamic_programming.LeetCode198Rub" />
       <module name="leetCode" />
@@ -198,38 +201,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Leetcode2325DecodeMessage" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.Leetcode2325DecodeMessage" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Leetcode47PermuteUnique" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrangement.Leetcode47PermuteUnique" />
-      <module name="leetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.arrangement.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="LeetcodeSubsetXORSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.arrangement.LeetcodeSubsetXORSum" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="leetcode.arrangement.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RotateMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="list.RotateMatrix" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="list.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="array.SearchInsert" />
+      <module name="leetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,11 +272,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.SearchInsert" />
+        <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="Application.Leetcode22GenerateParenthesis" />
         <item itemvalue="Application.LeetCode198Rub" />
         <item itemvalue="Application.LeetcodeSubsetXORSum" />
-        <item itemvalue="Application.Leetcode47PermuteUnique" />
-        <item itemvalue="Application.Leetcode2325DecodeMessage" />
       </list>
     </recent_temporary>
   </component>
@@ -373,7 +376,12 @@
       <workItem from="1694951150273" duration="92000" />
       <workItem from="1694951265293" duration="6669000" />
       <workItem from="1695094371695" duration="1901000" />
-      <workItem from="1697331825874" duration="14331000" />
+      <workItem from="1697331825874" duration="17037000" />
+      <workItem from="1721836593512" duration="865000" />
+      <workItem from="1721960787130" duration="60000" />
+      <workItem from="1725201900961" duration="1555000" />
+      <workItem from="1726276138481" duration="38000" />
+      <workItem from="1728288849559" duration="2807000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
@@ -571,6 +579,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/arrangement/LeetcodeSubsetXORSum.java</url>
           <line>40</line>
           <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/array/SearchInsert.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="49" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
