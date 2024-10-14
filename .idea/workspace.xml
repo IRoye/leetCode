@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="411a46a4-dccd-4c7b-ae9d-b61d4a027151" name="Changes" comment="feat(leetcode-26):数组去重">
-      <change afterPath="$PROJECT_DIR$/src/array/BusyStudent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array/SearchInsert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/list/RotateMatrix.java" afterDir="false" />
+    <list default="true" id="411a46a4-dccd-4c7b-ae9d-b61d4a027151" name="Changes" comment="feat(leetcode-35):二分查找">
+      <change afterPath="$PROJECT_DIR$/src/string/DetectCapitalUse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/string/LengthOfLastWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dynamic_programming/Leetcode22GenerateParenthesis.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dynamic_programming/Leetcode22GenerateParenthesis.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,20 +159,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/royeyu/Workspaces/java/leetCode",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.SearchInsert">
+}]]></component>
+  <component name="RunManager" selected="Application.LengthOfLastWord">
     <configuration name="LeetCode198Rub" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="dynamic_programming.LeetCode198Rub" />
       <module name="leetCode" />
@@ -201,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LeetcodeSubsetXORSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.arrangement.LeetcodeSubsetXORSum" />
+    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="string.LengthOfLastWord" />
       <module name="leetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.arrangement.*" />
+          <option name="PATTERN" value="string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -272,11 +271,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LengthOfLastWord" />
         <item itemvalue="Application.SearchInsert" />
         <item itemvalue="Application.RotateMatrix" />
         <item itemvalue="Application.Leetcode22GenerateParenthesis" />
         <item itemvalue="Application.LeetCode198Rub" />
-        <item itemvalue="Application.LeetcodeSubsetXORSum" />
       </list>
     </recent_temporary>
   </component>
@@ -381,7 +380,10 @@
       <workItem from="1721960787130" duration="60000" />
       <workItem from="1725201900961" duration="1555000" />
       <workItem from="1726276138481" duration="38000" />
-      <workItem from="1728288849559" duration="2807000" />
+      <workItem from="1728288849559" duration="3519000" />
+      <workItem from="1728810800413" duration="62000" />
+      <workItem from="1728810869654" duration="418000" />
+      <workItem from="1728918816229" duration="2020000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leetcode-15):16. 最接近的三数之和">
       <created>1627209085266</created>
@@ -397,7 +399,15 @@
       <option name="project" value="LOCAL" />
       <updated>1627218244190</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat(leetcode-35):二分查找">
+      <option name="closed" value="true" />
+      <created>1728292269344</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1728292269344</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -520,7 +530,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="feat(leetcode-15):16. 最接近的三数之和" />
     <MESSAGE value="feat(leetcode-26):数组去重" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(leetcode-26):数组去重" />
+    <MESSAGE value="feat(leetcode-35):二分查找" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leetcode-35):二分查找" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -587,6 +598,10 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/sort/BubbleSort.java">
